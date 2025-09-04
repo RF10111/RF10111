@@ -13,18 +13,11 @@
 
 ## 📚 Experience & Education
 - 🎓 **Gunadarma University** – Informatics (2021–2025)  
-- 🎓 **Bangkit Academy 2024 (Independent Study)** – Cloud Computing Path  
+- 🎓 **Bangkit Academy - Cloud Computing Path (Independent Study, 2024)
 - 💼 **Internship:** Developed a **Point of Sale (POS) Web Application** for an automotive workshop (2025)
 
 ---
 
-## 🚀 Projects
-Here are some of my highlighted works:  
-- 🛒 **POS Web Application** – A system for managing customers, mechanics, spare parts, and invoices at an automotive workshop  
-- 📢 **E-Mading Platform** – Online bulletin board for campus announcements  
-- 📊 **Service Booking Website (FixinAja)** – Online service ordering app for electronic repairs  
-
----
 
 ## 📫 Let's Connect
 - GitHub: [RF10111](https://github.com/RF10111)  
